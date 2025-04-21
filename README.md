@@ -3,7 +3,7 @@ simple python app to view YouTube channels RSS feeds
 
 made with Gemini Pro 2.5 (experimental) free.
 
-Run this in it's own folder it will create some files for persistance. Add RSS links to the feed list it will get the last 15 videos (adjustable) from the channel and list all the videos from the channel list sorted by most recent, checking the box next to the title will stop the video from showing on the list when it's updated.
+Run this in it's own folder it will create some files for persistance. Add RSS links to the feed list it will get the last 15 videos (adjustable) from the channel and list all the videos from the channel list sorted by most recent, clicking the title will open the video in your default browser, checking the box next to the title will stop the video from showing on the list when it's updated.
 
 # How to get a RSS feed link from YouTube
 
