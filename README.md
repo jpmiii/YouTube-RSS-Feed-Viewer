@@ -1,4 +1,3 @@
-# YouTube-RSS-Feed-Viewer
 # YouTube RSS Feed Viewer
 
 A simple desktop application built with Python and Tkinter to aggregate and view the latest videos from your favorite YouTube channels using their RSS feeds. Keep track of new uploads chronologically without relying on YouTube's main feed or subscriptions.
@@ -25,7 +24,7 @@ There are two ways to run the application:
 
 **1. Using the Executable (Recommended for most users)**
 
-* *(Link to Releases page will go here if you create executables)*
+* [*(Link to Releases page)*](https://github.com/jpmiii/YouTube-RSS-Feed-Viewer/releases/tag/v1.0.0)
 * Download the latest pre-built executable for your operating system (Windows `.exe`, macOS `.app`, Linux) from the **Releases** page of this repository (if available).
 * Place the executable in its own folder.
 * Run the executable.
@@ -59,9 +58,8 @@ There are two ways to run the application:
         *(Note: You need to create a `requirements.txt` file containing `feedparser`)*
     4.  Run the application:
         ```bash
-        python ytrss.py
+        python YouTubeRSSViewer.py
         ```
-        *(Replace `ytrss.py` with the actual name of your main Python script)*
 
 ## Usage
 
