@@ -38,8 +38,8 @@ There are two ways to run the application:
 * **Setup:**
     1.  Clone or download this repository:
         ```bash
-        git clone [https://docs.github.com/repositories/creating-and-managing-repositories/about-repositories](https://docs.github.com/repositories/creating-and-managing-repositories/about-repositories)
-        cd [repository folder name]
+        git clone https://github.com/jpmiii/YouTube-RSS-Feed-Viewer.git
+        cd YouTube-RSS-Feed-Viewer
         ```
     2.  **(Recommended)** Create and activate a virtual environment:
         ```bash
