@@ -24,7 +24,7 @@ There are two ways to run the application:
 
 **1. Using the Executable (Recommended for most users)**
 
-* [*(Link to Releases page)*](https://github.com/jpmiii/YouTube-RSS-Feed-Viewer/releases/tag/v1.0.0)
+* [Releases](https://github.com/jpmiii/YouTube-RSS-Feed-Viewer/releases/tag/v1.0.0)
 * Download the latest pre-built executable for your operating system (Windows `.exe`, macOS `.app`, Linux) from the **Releases** page of this repository (if available).
 * Place the executable in its own folder.
 * Run the executable.
