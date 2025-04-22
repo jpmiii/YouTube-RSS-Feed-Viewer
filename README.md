@@ -2,7 +2,7 @@
 
 A simple desktop application built with Python and Tkinter to aggregate and view the latest videos from your favorite YouTube channels using their RSS feeds. Keep track of new uploads chronologically without relying on YouTube's main feed or subscriptions.
 
-![Screenshot Placeholder - Consider adding a screenshot of the app here!]
+![Project Screenshot](screenshotYouTubeRSS.png)
 
 ## Features
 
